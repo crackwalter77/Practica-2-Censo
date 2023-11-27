@@ -1,0 +1,1 @@
+{"controlador.sd.linkedlist.LinkedList":{"head":{"data":{"@class":"model.Censo","id":2,"censador":{"nombre":"Miguel","apellido":"Apolo","edad":22},"cesado":{"nombre":"Emilio","apellido":"Bravo","edad":19},"tipo":"DIVORCIADO","motivo":"Infidelidad","fechaDivorsio":"20-09-2023","estadoEmosional":"Bellaco"}},"last":{"@reference":"..\/head"},"size":1}}
